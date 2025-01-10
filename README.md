@@ -1,6 +1,6 @@
 
 ## Demo
-![demo poster](/Poster_Template_for_CUHK.png)
+<img src="/Poster_Template_for_CUHK.png" width="400">
 
 ## Environment
 * [Overleaf](https://www.overleaf.com/project) (recommended)
@@ -13,4 +13,5 @@
 
 ## Reference 
 [https://github.com/k4rtik/uchicago-poster](https://github.com/k4rtik/uchicago-poster)
+
 [https://www.overleaf.com/latex/templates/poster-template-for-nottingham-centre-for-geomechanics/tmpkbjdnxwrr](https://www.overleaf.com/latex/templates/poster-template-for-nottingham-centre-for-geomechanics/tmpkbjdnxwrr)
