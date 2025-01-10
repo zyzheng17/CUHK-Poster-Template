@@ -1,6 +1,6 @@
 
 ## Demo
-![demo poster]("Poster_Template_for_CUHK.pdf")
+![demo poster](/Poster_Template_for_CUHK.png)
 
 ## Environment
 * [Overleaf](https://www.overleaf.com/project) (recommended)
