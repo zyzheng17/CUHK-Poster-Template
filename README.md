@@ -1,1 +1,1 @@
-# Unofficial-Poster-Template-for-CUHK
+# Unofficial Poster Template for CUHK
