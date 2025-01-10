@@ -1,6 +1,6 @@
 
-## Preview
-<image src="Poster_Template_for_CUHK.pdf">
+## Demo
+![demo poster]("Poster_Template_for_CUHK.pdf")
 
 ## Environment
 * [Overleaf](https://www.overleaf.com/project) (recommended)
