@@ -1,6 +1,7 @@
 
 ## Demo
 <img src="/Poster_Template_for_CUHK.png" width="400">
+<img src="/Poster_Template_for_CUHK_2.png" width="800">
 
 ## Environment
 * [Overleaf](https://www.overleaf.com/project) (recommended)
